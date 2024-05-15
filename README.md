@@ -60,11 +60,21 @@ The primary dataset used for this analysis;
   - Isolating customers living in the most densely populated area in the state of Victoria (Australia).
      - I used the Vendor State to create a density map, created a second map by duplicating the longitude in the columns section. I then altered the second map from density to cicle. I later applied dual axis on the second map to create a single map for better illustration. The map applies a Status filter by excluding Null and Complete values as well as a Vendor State filter showing only the state of Victoria.
        -   ![Dataproject08](https://github.com/karanja-Muiruri/Buzz-Light-years-Vendors-Analytics-Project./assets/169806532/fe6df740-7b4a-43b3-8f3a-c65a810b9411)
-       -   ![Dataproject09](https://github.com/karanja-Muiruri/Buzz-Light-years-Vendors-Analytics-Project./assets/169806532/89bcd76f-3055-442c-acf2-e2019fd1f10d)
+     - I used radial tool to draw a circle around the most densely populated area to show the Epicenter and External datas for the state of Victoria.
+       -   ![Dataproject09](https://github.com/karanja-Muiruri/Buzz-Light-years-Vendors-Analytics-Project./assets/169806532/dc1e0129-78de-4f63-a08f-67679e54447a)
 
 
   - Showing the models originally purchased by these customers.
-       - I added the Manufacturing Log.csv as a relationship to the Customer Information.csv to include
+       - I added the Manufacturing Log.csv as a relationship to the Customer Information.csv to include the Model Line.
+         - ![Dataproject10](https://github.com/karanja-Muiruri/Buzz-Light-years-Vendors-Analytics-Project./assets/169806532/28b4d741-96c7-4c4b-8870-fcd4f2916411)
+         - 
+       - There were some duplicates in the Customer ID (Manufacturing Log.csv) that slightly affected the Victoria state values.
+         -  ![Dataproject11](https://github.com/karanja-Muiruri/Buzz-Light-years-Vendors-Analytics-Project./assets/169806532/fb0f8a76-5505-4125-b0bd-1c7e666dad97)
+        
+       - Finally, a Victoria state table showing the models originally purchased by these customers.
+         -    ![Dataproject12](https://github.com/karanja-Muiruri/Buzz-Light-years-Vendors-Analytics-Project./assets/169806532/2bff7673-d102-4eb4-868b-70dad385b814)
+
+
 
 
 
