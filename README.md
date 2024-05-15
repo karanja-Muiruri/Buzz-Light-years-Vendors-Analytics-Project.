@@ -6,8 +6,6 @@
  - [Tools Used](#tools-used)
  - [Data Preparation](#data-preparation)
  - [Exploratory Data Analysis](#exploratory-data-analysis)
- - [Data Analysis](#data-analysis)  
- - 
 
 ## Project Overview
 Analysis of vendor locations for all customers that have yet to complete the repair on their Buzz Light years; for use in determining where to send the repair trucks first.
@@ -68,7 +66,7 @@ The primary dataset used for this analysis;
   - Showing the models originally purchased by these customers.
        - I added the Manufacturing Log.csv as a relationship to the Customer Information.csv to include
 
-### Data Analysis
+
 
 
   
