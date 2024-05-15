@@ -14,15 +14,15 @@ Analysis of vendor locations for all customers that have yet to complete the rep
 
 ### Data Sources
 The primary dataset used for this analysis;
-  'Customer Information.csv'
-  'Log Tracking_Completed_File_1.csv'
-  'Log Tracking_Completed_File_2.csv'
-  'Log Tracking_Completed_File_3.csv'
-  'Log Tracking_Incompleted_File_1.csv'
-  'Log Tracking_Incompleted_File_2.csv'
-  'Log Tracking_Incompleted_File_3.csv'
-  'Manufacturing Log.csv'
-  'Vendor Allocation.csv'
+  - 'Customer Information.csv'
+  - 'Log Tracking_Completed_File_1.csv'
+  - 'Log Tracking_Completed_File_2.csv'
+  - 'Log Tracking_Completed_File_3.csv'
+  - 'Log Tracking_Incompleted_File_1.csv'
+  - 'Log Tracking_Incompleted_File_2.csv'
+  - 'Log Tracking_Incompleted_File_3.csv'
+  - 'Manufacturing Log.csv'
+  - 'Vendor Allocation.csv'
 
   ### Tools Used
   - Tableau
