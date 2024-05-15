@@ -8,9 +8,11 @@
  - [Exploratory Data Analysis](#exploratory-data-analysis)
 
 ## Project Overview
+---
 Analysis of vendor locations for all customers that have yet to complete the repair on their Buzz Light years; for use in determining where to send the repair trucks first.
 
 ### Data Sources
+---
 The primary dataset used for this analysis;
   - 'Customer Information.csv'
   - 'Log Tracking_Completed_File_1.csv'
@@ -23,9 +25,11 @@ The primary dataset used for this analysis;
   - 'Vendor Allocation.csv'
 
   ### Tools Used
+  ---
   - Tableau
     
  ### Data Preparation
+ ---
  In the initial data preparation phase, I performed the following tasks;
  - Data Loading and Inspection.
     - Loaded all the appropriate data sets.
@@ -45,6 +49,7 @@ The primary dataset used for this analysis;
    
  
  ### Exploratory Data Analysis 
+ ---
  EDA involved exploring the sales data to answer key tasks, such as;
   - Analyzing the locations of the vendors for all customers that have yet to complete the repair on their Buzz Light years.
       -  Using Vendor Zip Code, I created a density map, as well as adding a Status filter that excludes COMPLETE, thus a map showing vendor zip codes with incomplete repairs.
